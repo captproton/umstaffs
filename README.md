@@ -1,6 +1,6 @@
 # Bridgetown Website README
 
-Welcome to the temporary umstaffs.com website! You can update this README file to provide additional context and setup information for yourself or other contributors.
+Welcome to the _temporary_ _umstaffs.com_ website! You can update this README file to provide additional context and setup information for yourself or other contributors.
 
 ## Table of Contents
 
