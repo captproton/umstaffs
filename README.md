@@ -1,15 +1,17 @@
 # Bridgetown Website README
 
-Welcome to your new Bridgetown website! You can update this README file to provide additional context and setup information for yourself or other contributors.
+Welcome to the temporary umstaffs.com website! You can update this README file to provide additional context and setup information for yourself or other contributors.
 
 ## Table of Contents
 
-- [Prerequisites](#prerequisites)
-- [Install](#install)
-- [Development](#development)
-- [Commands](#commands)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
+- [Bridgetown Website README](#bridgetown-website-readme)
+  - [Table of Contents](#table-of-contents)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Development](#development)
+    - [Commands](#commands)
+  - [Deployment](#deployment)
+  - [Contributing](#contributing)
 
 ## Prerequisites
 
